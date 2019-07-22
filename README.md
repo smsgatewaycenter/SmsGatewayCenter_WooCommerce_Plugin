@@ -2,7 +2,8 @@
 
 Sends SMS Alerts for WooCommerce Order statuses and send bulk SMS to all subscribers groups via SMSGatewayCenter API.
 
-=== SMSGatewayCenter WooCommerce SMS Alerts ===
+### === SMSGatewayCenter WooCommerce SMS Alerts ===
+
 Contributors: Popular SoftTech and Marketing Pvt. Ltd.
 Tags: SMS Alerts, WooCommerce SMS Alerts, WooCommerce order SMS, WooCommerce order notifications, Order notifications to wp admin, Order notification to wordpress customers, Bulk SMS, WooCommerce, WooCommerce SMS, WooCommerce SMS Orders, Order SMS Message, Order SMS Notifications
 Requires at least: 3.8
@@ -13,9 +14,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Sends SMS Alerts for WooCommerce Order statuses and send bulk SMS to all subscribers groups via SMSGatewayCenter API.
 
-== Description ==
+### == Description ==
 
 SMS Gateway Center has been the leading SMS Gateway Provider for domestic and international SMS across the globe. SGC also provides 2 Way SMS and Complete OTP (2FA) SMS platform to validate users via One Time Password. 
+
 SMSGatewayCenter SMS Alerts plugin will allow you to send SMS Alerts automatically for orders placed in WooCommerce E-Commerce platform. Buyers and Admin both can receive SMS alerts after buyers order is placed on WooCommerce platform. 
 All SMS Alerts text can be customized from Wordpress admin panel.
 
@@ -47,12 +49,12 @@ User Update Profile.
 
 All above events can be triggered for admins to get same SMS content on the given numbers.
 
-== Installation ==
+### == Installation ==
 How to install the SMSGatewayCenter SMS Alerts Plugin?
 
 Please follow the steps to install our plugin: 
 
-== WordPress Platform ==
+### == WordPress Platform ==
 1. After downloading zipped folder plugin, Login to your WordPress admin interface.
 2. Go to *Plugins* from the left sidebar menu.
 3. Click on *Add new*.
@@ -62,7 +64,7 @@ Please follow the steps to install our plugin:
 7. After the plugin has been activated you will notice a new section  "SGC Alerts" in sidebar menu.
 8. All Set and Done!
 
-== FTP ==
+### == FTP ==
 1. After downloading zipped folder plugin, unzip the file, SmsGatewayCenter_WooCommerce_Plugin.
 2. Launch your FTP client.
 3. Browse to var/www/html/wp_site/wp-content/plugins/ on your server.
@@ -73,20 +75,20 @@ Please follow the steps to install our plugin:
 8. All Set and Done!
 
 
-== Screenshots ==
+### == Screenshots ==
 1. SMSGatewayCenter WooCommerce SMS Alerts plugin settings.
 
 
-== Changelog ==
+### == Changelog ==
 = 1.0.0 =
 * Initiaal release
 
-= 1.0.1 =
+### == 1.0.1 ==
 * Import Options added for Subscribers.
 * Improvised DLR Logs.
 
-== Upgrade Notice ==
+### == Upgrade Notice ==
 Update to 1.0.1 to use import option guide for subscribers.
 
-== Frequently Asked Questions == 
+### == Frequently Asked Questions == 
 Nothing here
