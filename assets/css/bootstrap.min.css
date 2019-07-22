@@ -1,0 +1,84 @@
+#messages {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #292b2c;
+    background-color: #fff;
+}
+.pagination li a {
+    color: #0275d8;
+    text-decoration: none
+}
+
+table {
+    border-collapse: collapse;
+    background-color: transparent;
+}
+
+th {
+    text-align: left;
+}
+
+
+.table td,
+.table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #eceeef;
+}
+
+
+.table-hover tbody tr:hover {
+    background-color: rgba(0, 0, 0, .075)
+}
+
+.pagination {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    border-radius: .25rem
+}
+
+.page-item:first-child .page-link {
+    margin-left: 0;
+    border-bottom-left-radius: .25rem;
+    border-top-left-radius: .25rem
+}
+
+.page-item:last-child .page-link {
+    border-bottom-right-radius: .25rem;
+    border-top-right-radius: .25rem
+}
+
+.page-item.active .page-link {
+    z-index: 2;
+    color: #fff;
+    background-color: #0275d8;
+    border-color: #0275d8
+}
+
+.page-link {
+    position: relative;
+    display: block;
+    padding: 1rem 1rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #0275d8;
+    background-color: #fff;
+    border: 1px solid #ddd
+}
+
+.page-link:focus,
+.page-link:hover {
+    color: #014c8c;
+    text-decoration: none;
+    background-color: #eceeef;
+    border-color: #ddd
+}
+.table-bordered td, .table-bordered th {
+    border: 1px solid #eceeef;
+}

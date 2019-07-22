@@ -1,0 +1,15 @@
+body p.msg_tip { font-size: 12px !important; font-weight: 700; margin-top: 12px; width: 397px; line-height: 16px; color:#333}
+p.msg_tip span { font-size: 13px; text-transform: capitalize; font-weight: 400; padding-right: 3px; }
+p.msg_tip::before { content: ""; display: block; clear: both; }
+span.sgc_userId {  margin-left: 10px; }
+.color-blue{color:#3c8dbc !important}
+.color-333{color:#333 !important}
+p.mtip{color:#333 !important;font-size: 12px !important; font-weight:700}
+td{font-size:11px !important}
+.txtMsg{width:250px!important;max-width: 250px;
+word-wrap: break-word;
+white-space: pre-wrap;}
+.exportcsv{max-width: 100%;
+margin-top: 20px;
+padding-top: 10px;float:right}
+.text-red{color:red;font-weight: 700}
